@@ -3,6 +3,7 @@
 ## Algorithms
 
 - [Contains-Duplicate](./src/algorithms/contains-duplicate)
+- [Factorial](./src/algorithms/factorial)
 - [Is-Monotonic](./src/algorithms/is-monotonic)
 
 ## Data-Structures
