@@ -1,15 +1,14 @@
-## Collection of data-structures and algorithms
+## Data Structures and Algorithms
 
----
+## Algorithms
 
-# Algorithms
+- [Contains-Duplicate]('./src/algorithms/contains-duplicate')
+- [Is-Monotonic]('./src/algorithms/is-monotonic')
 
-## Arrays & Hashing (1 / 9)
+## Data-Structures
 
-- [Contains Duplicate](./src/algorithms/contains-duplicate)
+- [Linked-list]('./src/data-structures/linked-list')
 
----
+## License
 
-# Data-Structures (0 / 16)
-
-- [Linked List](./src/data-strucutures/linked-list)
+MIT © [Raghib Hasan](https://raghib.io)
