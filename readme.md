@@ -2,12 +2,12 @@
 
 ## Algorithms
 
-- [Contains-Duplicate]('./src/algorithms/contains-duplicate')
-- [Is-Monotonic]('./src/algorithms/is-monotonic')
+- [Contains-Duplicate](./src/algorithms/contains-duplicate)
+- [Is-Monotonic](./src/algorithms/is-monotonic)
 
 ## Data-Structures
 
-- [Linked-list]('./src/data-structures/linked-list')
+- [Linked-list](./src/data-structures/linked-list)
 
 ## License
 
