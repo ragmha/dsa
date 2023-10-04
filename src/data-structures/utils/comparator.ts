@@ -1,4 +1,4 @@
-export default class Comparator {
+export default class Comparator<T> {
   public compare: Function
 
   /**
@@ -24,35 +24,35 @@ export default class Comparator {
   /**
    * Checks if two variables are equal.
    */
-  equal(a: string | number, b: string | number): boolean {
+  equal(a: T, b: T): boolean {
     return this.compare(a, b) === 0
   }
 
   /**
    * Checks if variable "a" is less than "b"
    */
-  lessThan(a: string | number, b: string | number): boolean {
+  lessThan(a: T, b: T): boolean {
     return this.compare(a, b) < 0
   }
 
   /**
    * Checks if variable "a" is greater than "b"
    */
-  greaterThan(a: string | number, b: string | number): boolean {
+  greaterThan(a: T, b: T): boolean {
     return this.compare(a, b) > 0
   }
 
   /**
    * Checks if variable "a" is less than or equal "b"
    */
-  lessThanOrEqual(a: string | number, b: string | number): boolean {
+  lessThanOrEqual(a: T, b: T): boolean {
     return this.lessThan(a, b) || this.equal(a, b)
   }
 
   /**
    * Checks if variable "a" is greater than or equal to "b"
    */
-  greaterThanOrEqual(a: string | number, b: string | number): boolean {
+  greaterThanOrEqual(a: T, b: T): boolean {
     return this.greaterThan(a, b) || this.equal(a, b)
   }
 
@@ -61,7 +61,6 @@ export default class Comparator {
    */
   reverse() {
     const compareOriginal = this.compare
-    this.compare = (a: string | number, b: string | number) =>
-      compareOriginal(b, a)
+    this.compare = (a: T, b: T) => compareOriginal(b, a)
   }
-} 
+}
