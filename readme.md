@@ -23,7 +23,7 @@
 | Special String Again                                      | `Strings`               |                                                   |
 | Common Child                                              | `Strings`               |                                                   |
 | Contains-Duplicate                                        | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/contains-duplicate) |
-| Valid Anagram                                             | `Arrays`, `Hash Tables` |                                                   |
+| Valid Anagram                                             | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/valid-anagram)      |
 | Two Sum                                                   | `Arrays`, `Hash Tables` |                                                   |
 | Group Anagrams                                            | `Arrays`, `Hash Tables` |                                                   |
 | Top K Frequent Elements                                   | `Arrays`, `Hash Tables` |                                                   |
