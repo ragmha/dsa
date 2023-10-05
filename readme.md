@@ -24,7 +24,7 @@
 | Common Child                                              | `Strings`               |                                                   |
 | Contains-Duplicate                                        | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/contains-duplicate) |
 | Valid Anagram                                             | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/valid-anagram)      |
-| Two Sum                                                   | `Arrays`, `Hash Tables` |                                                   |
+| Two Sum                                                   | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/two-sum)            |
 | Group Anagrams                                            | `Arrays`, `Hash Tables` |                                                   |
 | Top K Frequent Elements                                   | `Arrays`, `Hash Tables` |                                                   |
 | Product of Array Except Self                              | `Arrays`, `Hash Tables` |                                                   |
