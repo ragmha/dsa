@@ -1,8 +1,6 @@
 ## Data Structures and Algorithms
 
->
-
-## Algorithms (4/ 167)
+## Algorithms (7/ 167)
 
 | Name                                                      | Tags                    | Solution                                          |
 | --------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
@@ -17,7 +15,7 @@
 | Sherlock and Anagrams                                     | `Hash Tables`           |                                                   |
 | Count Triplets                                            | `Hash Tables`           |                                                   |
 | Frequency Queries                                         | `Hash Tables`           |                                                   |
-| Making Anagrams                                           | `Strings`               |                                                   |
+| Making Anagrams                                           | `Strings`               | [TypeScript](./src/algorithms/make-anagram)       |
 | Alternating Characters                                    | `Strings`               |                                                   |
 | Sherlock and the Valid String                             | `Strings`               |                                                   |
 | Special String Again                                      | `Strings`               |                                                   |
