@@ -1,5 +1,12 @@
 ## Data Structures and Algorithms
 
+## Data-Structures
+
+| Name        | Solution                                        |
+| ----------- | ----------------------------------------------- |
+| Linked-list | [TypeScript](./src/data-structures/linked-list) |
+| Hash Table  | [TypeScript](./src/data-structures/hash-table)  |
+
 ## Algorithms (7/ 167)
 
 | Name                                                      | Tags                    | Solution                                          |
@@ -172,12 +179,6 @@
 | Multiply Strings                                          | `Math & Geometry`       |                                                   |
 | Detect Squares                                            | `Math & Geometry`       |                                                   |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)          |
-
-## Data-Structures
-
-| Name        | Solution                                        |
-| ----------- | ----------------------------------------------- |
-| Linked-list | [TypeScript](./src/data-structures/linked-list) |
 
 ## License
 
