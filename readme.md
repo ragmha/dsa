@@ -12,7 +12,7 @@
 | Name                                                      | Tags                    | Solution                                          |
 | --------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | Is-Monotonic                                              | `Arrays`                | [TypeScript](./src/algorithms/is-monotonic)       |
-| 2D Array - DS                                             | `Arrays`                |                                                   |
+| 2D Array - DS                                             | `Arrays`                | [TypeScript](./src/algorithms/2d-array-ds)        |
 | Left Rotation                                             | `Arrays`                |                                                   |
 | New Year Chaos                                            | `Arrays`                |                                                   |
 | Minimum Swaps 2                                           | `Arrays`                |                                                   |
