@@ -7,13 +7,13 @@
 | Linked-list | [TypeScript](./src/data-structures/linked-list) |
 | Hash Table  | [TypeScript](./src/data-structures/hash-table)  |
 
-## Algorithms (7/ 167)
+## Algorithms (9/ 167)
 
 | Name                                                      | Tags                    | Solution                                          |
 | --------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | Is-Monotonic                                              | `Arrays`                | [TypeScript](./src/algorithms/is-monotonic)       |
 | 2D Array - DS                                             | `Arrays`                | [TypeScript](./src/algorithms/2d-array-ds)        |
-| Left Rotation                                             | `Arrays`                |                                                   |
+| Left Rotation                                             | `Arrays`                | [TypeScript](./src/algorithms/left-rotation)      |
 | New Year Chaos                                            | `Arrays`                |                                                   |
 | Minimum Swaps 2                                           | `Arrays`                |                                                   |
 | Array Manipulation                                        | `Arrays`                |                                                   |
