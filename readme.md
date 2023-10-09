@@ -14,7 +14,7 @@
 | Is-Monotonic                                              | `Arrays`                | [TypeScript](./src/algorithms/is-monotonic)       |
 | 2D Array - DS                                             | `Arrays`                | [TypeScript](./src/algorithms/2d-array-ds)        |
 | Left Rotation                                             | `Arrays`                | [TypeScript](./src/algorithms/left-rotation)      |
-| New Year Chaos                                            | `Arrays`                |                                                   |
+| New Year Chaos                                            | `Arrays`                | [TypeScript](./src/algorithms/new-year-chaos)     |
 | Minimum Swaps 2                                           | `Arrays`                |                                                   |
 | Array Manipulation                                        | `Arrays`                |                                                   |
 | Ransom Note                                               | `Hash Tables`           |                                                   |
