@@ -7,7 +7,7 @@
 | Linked-list | [TypeScript](./src/data-structures/linked-list) |
 | Hash Table  | [TypeScript](./src/data-structures/hash-table)  |
 
-## Algorithms (9/ 167)
+## Algorithms (11/ 167)
 
 | Name                                                      | Tags                    | Solution                                          |
 | --------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
@@ -16,7 +16,7 @@
 | Left Rotation                                             | `Arrays`                | [TypeScript](./src/algorithms/left-rotation)      |
 | New Year Chaos                                            | `Arrays`                | [TypeScript](./src/algorithms/new-year-chaos)     |
 | Minimum Swaps 2                                           | `Arrays`                |                                                   |
-| Array Manipulation                                        | `Arrays`                |                                                   |
+| Array Manipulation                                        | `Arrays`                | [TypeScript](./src/algorithms/array-manipulation) |
 | Ransom Note                                               | `Hash Tables`           |                                                   |
 | Two Strings                                               | `Hash Tables`           |                                                   |
 | Sherlock and Anagrams                                     | `Hash Tables`           |                                                   |
