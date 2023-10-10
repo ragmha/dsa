@@ -5,6 +5,7 @@
 | Name        | Solution                                        |
 | ----------- | ----------------------------------------------- |
 | Linked-list | [TypeScript](./src/data-structures/linked-list) |
+| Stack       | [TypeScript](./src/data-structures/stack)       |
 | Hash Table  | [TypeScript](./src/data-structures/hash-table)  |
 
 ## Algorithms (12/ 167)
