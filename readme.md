@@ -7,6 +7,7 @@
 | Linked-list | [TypeScript](./src/data-structures/linked-list) |
 | Stack       | [TypeScript](./src/data-structures/stack)       |
 | Hash Table  | [TypeScript](./src/data-structures/hash-table)  |
+| Queue       | [TypeScript](./src/data-structures/queue)       |
 
 ## Algorithms (12/ 167)
 
