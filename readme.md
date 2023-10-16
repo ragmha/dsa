@@ -183,6 +183,27 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                    |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)           |
 
+## React challenges (0/16)
+
+| Name                  | Solution |
+| --------------------- | -------- |
+| the React Counter app |          |
+| useTimeout()          |          |
+| useIsFirstRender()    |          |
+| useSWR()              |          |
+| usePrevious()         |          |
+| useHover()            |          |
+| useToggle()           |          |
+| useDebounce()         |          |
+| useEffectOnce()       |          |
+| phone number input    |          |
+| useFocus()            |          |
+| useArray()            |          |
+| proxy-state valtio    |          |
+| useIsMounted()        |          |
+| useClickOutside()     |          |
+| useUpdateEffect()     |          |
+
 ## License
 
 MIT © [Raghib Hasan](https://raghib.io)
