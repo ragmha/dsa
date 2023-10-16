@@ -2,12 +2,13 @@
 
 ## Data-Structures
 
-| Name        | Solution                                        |
-| ----------- | ----------------------------------------------- |
-| Linked-list | [TypeScript](./src/data-structures/linked-list) |
-| Stack       | [TypeScript](./src/data-structures/stack)       |
-| Hash Table  | [TypeScript](./src/data-structures/hash-table)  |
-| Queue       | [TypeScript](./src/data-structures/queue)       |
+| Name               | Solution                                               |
+| ------------------ | ------------------------------------------------------ |
+| Linked-list        | [TypeScript](./src/data-structures/linked-list)        |
+| Doubly-Linked-list | [TypeScript](./src/data-structures/doubly-linked-list) |
+| Stack              | [TypeScript](./src/data-structures/stack)              |
+| Hash Table         | [TypeScript](./src/data-structures/hash-table)         |
+| Queue              | [TypeScript](./src/data-structures/queue)              |
 
 ## Algorithms (12/ 167)
 
