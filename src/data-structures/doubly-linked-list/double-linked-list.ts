@@ -43,7 +43,7 @@ export default class DoublyLinkedList<T> {
     }
 
     // Attach new node to the end of linked list
-    if (this.tail?.next) {
+    if (this.tail) {
       this.tail.next = newNode
     }
 
@@ -69,7 +69,9 @@ export default class DoublyLinkedList<T> {
         deletedNode = currentNode
 
         if (deletedNode === this.head) {
-          //  If HEAD is going to be deleted Set head to second node, which will become new head.
+          // If HEAD is going to be deleted...
+
+          // Set head to second node, which will become new head.
           this.head = deletedNode.next
 
           // Set new head's previous to null.
@@ -83,22 +85,24 @@ export default class DoublyLinkedList<T> {
             this.tail = null
           }
         } else if (deletedNode === this.tail) {
-          //  If TAIL is going to be deleted Set tail to second last node, which will become new tail.
+          // If TAIL is going to be deleted...
+
+          // Set tail to second last node, which will become new tail.
           this.tail = deletedNode.previous
 
-          if (this.tail?.next) {
+          if (this.tail) {
             this.tail.next = null
           }
         } else {
-          // If MIDDLE node is going to be deleted
+          // If MIDDLE node is going to be deleted...
           const previousNode = deletedNode.previous
           const nextNode = deletedNode.next
 
-          if (previousNode?.next) {
+          if (previousNode) {
             previousNode.next = nextNode
           }
 
-          if (nextNode?.previous) {
+          if (nextNode) {
             nextNode.previous = previousNode
           }
         }
@@ -143,17 +147,23 @@ export default class DoublyLinkedList<T> {
       return null
     }
 
-    const deleteHead = this.head
-
-    if (this.head?.next) {
-      this.head = this.head.next
-      this.head.previous = null
-    } else {
+    if (this.head === this.tail) {
+      const deletedTail = this.tail
       this.head = null
       this.tail = null
+
+      return deletedTail
     }
 
-    return deleteHead
+    const deletedTail = this.tail
+
+    this.tail = this.tail.previous
+
+    if (this.tail) {
+      this.tail.next = null
+    }
+
+    return deletedTail
   }
 
   deleteHead(): DoubleNode<T> | null {
