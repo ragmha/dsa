@@ -185,24 +185,24 @@
 
 ## React challenges (0/16)
 
-| Name                  | Solution |
-| --------------------- | -------- |
-| the React Counter app |          |
-| useTimeout()          |          |
-| useIsFirstRender()    |          |
-| useSWR()              |          |
-| usePrevious()         |          |
-| useHover()            |          |
-| useToggle()           |          |
-| useDebounce()         |          |
-| useEffectOnce()       |          |
-| phone number input    |          |
-| useFocus()            |          |
-| useArray()            |          |
-| proxy-state valtio    |          |
-| useIsMounted()        |          |
-| useClickOutside()     |          |
-| useUpdateEffect()     |          |
+| Name                  | Solution                              |
+| --------------------- | ------------------------------------- |
+| the React Counter app |                                       |
+| useTimeout()          | [TypeScript](./src/react/use-timeout) |
+| useIsFirstRender()    |                                       |
+| useSWR()              |                                       |
+| usePrevious()         |                                       |
+| useHover()            |                                       |
+| useToggle()           |                                       |
+| useDebounce()         |                                       |
+| useEffectOnce()       |                                       |
+| phone number input    |                                       |
+| useFocus()            |                                       |
+| useArray()            |                                       |
+| proxy-state valtio    |                                       |
+| useIsMounted()        |                                       |
+| useClickOutside()     |                                       |
+| useUpdateEffect()     |                                       |
 
 ## License
 
