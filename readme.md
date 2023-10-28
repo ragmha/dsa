@@ -190,7 +190,7 @@
 | the React Counter app |                                                  |
 | useTimeout()          | [TypeScript](./src/react/use-timeout.ts)         |
 | useIsFirstRender()    | [TypeScript](./src/react/use-is-first-render.ts) |
-| useSWR()              |                                                  |
+| useSWR()              | [TypeScript](./src/react/use-swr.ts)             |
 | usePrevious()         |                                                  |
 | useHover()            |                                                  |
 | useToggle()           |                                                  |
