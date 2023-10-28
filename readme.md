@@ -191,7 +191,7 @@
 | useTimeout()          | [TypeScript](./src/react/use-timeout.ts)         |
 | useIsFirstRender()    | [TypeScript](./src/react/use-is-first-render.ts) |
 | useSWR()              | [TypeScript](./src/react/use-swr.ts)             |
-| usePrevious()         |                                                  |
+| usePrevious()         | [TypeScript](./src/react/use-previous.ts)        |
 | useHover()            |                                                  |
 | useToggle()           |                                                  |
 | useDebounce()         |                                                  |
