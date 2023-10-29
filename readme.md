@@ -183,7 +183,7 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                    |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)           |
 
-## React challenges (5/15)
+## React challenges (6/15)
 
 | Name               | Solution                                         |
 | ------------------ | ------------------------------------------------ |
@@ -192,7 +192,7 @@
 | useSWR()           | [TypeScript](./src/react/use-swr.ts)             |
 | usePrevious()      | [TypeScript](./src/react/use-previous.ts)        |
 | useHover()         | [TypeScript](./src/react/use-hover.ts)           |
-| useToggle()        |                                                  |
+| useToggle()        | [TypeScript](./src/react/use-toggle.ts)          |
 | useDebounce()      |                                                  |
 | useEffectOnce()    |                                                  |
 | phone number input |                                                  |
