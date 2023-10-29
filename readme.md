@@ -183,7 +183,7 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                    |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)           |
 
-## React challenges (6/15)
+## React challenges (8/15)
 
 | Name               | Solution                                         |
 | ------------------ | ------------------------------------------------ |
@@ -194,14 +194,14 @@
 | useHover()         | [TypeScript](./src/react/use-hover.ts)           |
 | useToggle()        | [TypeScript](./src/react/use-toggle.ts)          |
 | useDebounce()      | [TypeScript](./src/react/use-debounce.ts)        |
-| useEffectOnce()    |                                                  |
-| phone number input |                                                  |
+| useEffectOnce()    | [TypeScript](./src/react/use-effect-once.ts)     |
 | useFocus()         |                                                  |
 | useArray()         |                                                  |
-| proxy-state valtio |                                                  |
 | useIsMounted()     |                                                  |
 | useClickOutside()  |                                                  |
 | useUpdateEffect()  |                                                  |
+| proxy-state valtio |                                                  |
+| phone number input |                                                  |
 
 ## License
 
