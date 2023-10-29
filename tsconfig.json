@@ -7,7 +7,7 @@
     "experimentalDecorators": true,
     "importHelpers": false,
     "inlineSourceMap": true,
-    "lib": ["esnext"],
+    "lib": ["esnext", "DOM"],
     "module": "commonjs",
     "moduleResolution": "node",
     "noEmitOnError": true,

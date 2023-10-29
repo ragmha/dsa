@@ -183,26 +183,25 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                    |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)           |
 
-## React challenges (0/16)
+## React challenges (5/15)
 
-| Name                  | Solution                                         |
-| --------------------- | ------------------------------------------------ |
-| the React Counter app |                                                  |
-| useTimeout()          | [TypeScript](./src/react/use-timeout.ts)         |
-| useIsFirstRender()    | [TypeScript](./src/react/use-is-first-render.ts) |
-| useSWR()              | [TypeScript](./src/react/use-swr.ts)             |
-| usePrevious()         | [TypeScript](./src/react/use-previous.ts)        |
-| useHover()            |                                                  |
-| useToggle()           |                                                  |
-| useDebounce()         |                                                  |
-| useEffectOnce()       |                                                  |
-| phone number input    |                                                  |
-| useFocus()            |                                                  |
-| useArray()            |                                                  |
-| proxy-state valtio    |                                                  |
-| useIsMounted()        |                                                  |
-| useClickOutside()     |                                                  |
-| useUpdateEffect()     |                                                  |
+| Name               | Solution                                         |
+| ------------------ | ------------------------------------------------ |
+| useTimeout()       | [TypeScript](./src/react/use-timeout.ts)         |
+| useIsFirstRender() | [TypeScript](./src/react/use-is-first-render.ts) |
+| useSWR()           | [TypeScript](./src/react/use-swr.ts)             |
+| usePrevious()      | [TypeScript](./src/react/use-previous.ts)        |
+| useHover()         | [TypeScript](./src/react/use-hover.ts)           |
+| useToggle()        |                                                  |
+| useDebounce()      |                                                  |
+| useEffectOnce()    |                                                  |
+| phone number input |                                                  |
+| useFocus()         |                                                  |
+| useArray()         |                                                  |
+| proxy-state valtio |                                                  |
+| useIsMounted()     |                                                  |
+| useClickOutside()  |                                                  |
+| useUpdateEffect()  |                                                  |
 
 ## License
 
