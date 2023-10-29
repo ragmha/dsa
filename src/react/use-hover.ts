@@ -1,4 +1,4 @@
-import { Ref, useCallback, useState, useRef, useEffect } from 'react'
+import { Ref, useCallback, useState, useRef } from 'react'
 /**
  * A hook to determine conditional rendering based on hover state of some element.
  *
@@ -12,28 +12,25 @@ import { Ref, useCallback, useState, useRef, useEffect } from 'react'
 
 export function useHover<T extends HTMLElement>(): [Ref<T>, boolean] {
   const [value, setValue] = useState<boolean>(false)
-  const elementRef = useRef<T>(null)
+  const elementRef = useRef<T | null>(null)
 
   const handleMouse = useCallback((event: MouseEvent) => {
     setValue(event.type === 'mouseenter')
   }, [])
 
-  useEffect(() => {
-    // Set false on mount, in case the component is re-rendered
-    setValue(false)
-
-    const node = elementRef.current
-
-    if (!node) return
-
-    node.addEventListener('mouseenter', handleMouse)
-    node.addEventListener('mouseleave', handleMouse)
-
-    return () => {
-      node.removeEventListener('mouseenter', handleMouse)
-      node.removeEventListener('mouseleave', handleMouse)
+  const callbackRef = useCallback((node: T | null) => {
+    if (elementRef.current) {
+      elementRef.current.removeEventListener('mouseenter', handleMouse)
+      elementRef.current.removeEventListener('mouseleave', handleMouse)
     }
-  }, [elementRef.current])
 
-  return [elementRef, value]
+    elementRef.current = node
+
+    if (elementRef.current) {
+      elementRef.current.addEventListener('mouseenter', handleMouse)
+      elementRef.current.addEventListener('mouseleave', handleMouse)
+    }
+  }, [])
+
+  return [callbackRef, value]
 }
