@@ -195,7 +195,7 @@
 | useToggle()        | [TypeScript](./src/react/use-toggle.ts)          |
 | useDebounce()      | [TypeScript](./src/react/use-debounce.ts)        |
 | useEffectOnce()    | [TypeScript](./src/react/use-effect-once.ts)     |
-| useFocus()         |                                                  |
+| useFocus()         | [TypeScript](./src/react/use-focus.ts)           |
 | useArray()         |                                                  |
 | useIsMounted()     |                                                  |
 | useClickOutside()  |                                                  |
