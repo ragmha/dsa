@@ -193,7 +193,7 @@
 | usePrevious()      | [TypeScript](./src/react/use-previous.ts)        |
 | useHover()         | [TypeScript](./src/react/use-hover.ts)           |
 | useToggle()        | [TypeScript](./src/react/use-toggle.ts)          |
-| useDebounce()      |                                                  |
+| useDebounce()      | [TypeScript](./src/react/use-debounce.ts)        |
 | useEffectOnce()    |                                                  |
 | phone number input |                                                  |
 | useFocus()         |                                                  |
