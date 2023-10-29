@@ -194,7 +194,7 @@
 | useHover()         | [TypeScript](./src/react/use-hover.ts)           |
 | useToggle()        | [TypeScript](./src/react/use-toggle.ts)          |
 | useDebounce()      | [TypeScript](./src/react/use-debounce.ts)        |
-| useEffectOnce()    |                                                  |
+| useEffectOnce()    | [TypeScript](./src/react/use-effect-once.ts)     |
 | phone number input |                                                  |
 | useFocus()         |                                                  |
 | useArray()         |                                                  |
