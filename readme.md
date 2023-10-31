@@ -183,7 +183,7 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                    |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)           |
 
-## React challenges (11/15)
+## React challenges (12/15)
 
 | Name               | Solution                                         |
 | ------------------ | ------------------------------------------------ |
@@ -198,7 +198,7 @@
 | useFocus()         | [TypeScript](./src/react/use-focus.ts)           |
 | useArray()         | [TypeScript](./src/react/use-array.ts)           |
 | useIsMounted()     | [TypeScript](./src/react/use-is-mounted.ts)      |
-| useClickOutside()  |                                                  |
+| useClickOutside()  | [TypeScript](./src/react/use-click-outside.ts)   |
 | useUpdateEffect()  |                                                  |
 | proxy-state valtio |                                                  |
 | phone number input |                                                  |
