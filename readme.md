@@ -183,7 +183,7 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                    |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)           |
 
-## React challenges (9/15)
+## React challenges (11/15)
 
 | Name               | Solution                                         |
 | ------------------ | ------------------------------------------------ |
@@ -197,7 +197,7 @@
 | useEffectOnce()    | [TypeScript](./src/react/use-effect-once.ts)     |
 | useFocus()         | [TypeScript](./src/react/use-focus.ts)           |
 | useArray()         | [TypeScript](./src/react/use-array.ts)           |
-| useIsMounted()     |                                                  |
+| useIsMounted()     | [TypeScript](./src/react/use-is-mounted.ts)      |
 | useClickOutside()  |                                                  |
 | useUpdateEffect()  |                                                  |
 | proxy-state valtio |                                                  |
