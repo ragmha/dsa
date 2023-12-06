@@ -1,15 +1,3 @@
-## Data Structures and Algorithms
-
-## Data-Structures
-
-| Name               | Solution                                               |
-| ------------------ | ------------------------------------------------------ |
-| Linked-list        | [TypeScript](./src/data-structures/linked-list)        |
-| Doubly-Linked-list | [TypeScript](./src/data-structures/doubly-linked-list) |
-| Stack              | [TypeScript](./src/data-structures/stack)              |
-| Hash Table         | [TypeScript](./src/data-structures/hash-table)         |
-| Queue              | [TypeScript](./src/data-structures/queue)              |
-
 ## Algorithms (12/ 167)
 
 | Name                                                      | Tags                    | Solution                                           |
@@ -183,25 +171,17 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                    |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/factorial)           |
 
-## React challenges (14/15)
+--
 
-| Name               | Solution                                         |
-| ------------------ | ------------------------------------------------ |
-| useTimeout()       | [TypeScript](./src/react/use-timeout.ts)         |
-| useIsFirstRender() | [TypeScript](./src/react/use-is-first-render.ts) |
-| useSWR()           | [TypeScript](./src/react/use-swr.ts)             |
-| usePrevious()      | [TypeScript](./src/react/use-previous.ts)        |
-| useHover()         | [TypeScript](./src/react/use-hover.ts)           |
-| useToggle()        | [TypeScript](./src/react/use-toggle.ts)          |
-| useDebounce()      | [TypeScript](./src/react/use-debounce.ts)        |
-| useEffectOnce()    | [TypeScript](./src/react/use-effect-once.ts)     |
-| useFocus()         | [TypeScript](./src/react/use-focus.ts)           |
-| useArray()         | [TypeScript](./src/react/use-array.ts)           |
-| useIsMounted()     | [TypeScript](./src/react/use-is-mounted.ts)      |
-| useClickOutside()  | [TypeScript](./src/react/use-click-outside.ts)   |
-| useUpdateEffect()  | [TypeScript](./src/react/use-update-effect.ts)   |
-| proxy-state valtio |                                                  |
-| phone number input | [TypeScript](./src/react/phone-number-input.tsx) |
+## Data-Structures (5 / -)
+
+| Name               | Solution                                               |
+| ------------------ | ------------------------------------------------------ |
+| Linked-list        | [TypeScript](./src/data-structures/linked-list)        |
+| Doubly-Linked-list | [TypeScript](./src/data-structures/doubly-linked-list) |
+| Stack              | [TypeScript](./src/data-structures/stack)              |
+| Hash Table         | [TypeScript](./src/data-structures/hash-table)         |
+| Queue              | [TypeScript](./src/data-structures/queue)              |
 
 ## License
 
