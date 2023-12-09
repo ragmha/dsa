@@ -8,7 +8,7 @@
 | New Year Chaos                                            | `Arrays`                | [TypeScript](./src/algorithms/new-year-chaos)      |
 | Minimum Swaps 2                                           | `Arrays`                | [TypeScript](./src/algorithms/minimum-swaps-2)     |
 | Array Manipulation                                        | `Arrays`                | [TypeScript](./src/algorithms/array-manipulation)  |
-| Ransom Note                                               | `Hash Tables`           |                                                    |
+| Ransom Note                                               | `Hash Tables`           | [TypeScript](./src/algorithms/ransom-note)         |
 | Two Strings                                               | `Hash Tables`           |                                                    |
 | Sherlock and Anagrams                                     | `Hash Tables`           |                                                    |
 | Count Triplets                                            | `Hash Tables`           |                                                    |
