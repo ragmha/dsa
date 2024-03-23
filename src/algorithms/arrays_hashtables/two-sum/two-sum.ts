@@ -18,7 +18,7 @@ Output: [1,2]
 
  */
 
-function twoSum(nums: number[], target: number): number[] {
+export function twoSum(nums: number[], target: number): number[] {
   const map = new Map()
 
   for (let i = 0; i < nums.length; i++) {
