@@ -32,8 +32,6 @@ describe('Stack', () => {
     const stack = new Stack()
 
     expect(stack.isEmpty()).toBe(true)
-
-    expect(stack.isEmpty()).toBe(false)
   })
 
   it('should pop from stack', () => {
