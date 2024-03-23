@@ -12,7 +12,7 @@ b = 'dcf'
 Delete e from a and f from b so that the remaining strings are cd and dc which are anagrams. This takes 2 character deletions.
  */
 
-function makeAnagram(a: string, b: string): number {
+export function makeAnagram(a: string, b: string): number {
   const map = new Map()
   let count = 0
 
