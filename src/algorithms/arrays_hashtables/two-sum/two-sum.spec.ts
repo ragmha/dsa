@@ -1,3 +1,5 @@
+import {twoSum } from './two-sum'
+
 describe('twoSum', () => {
   it('should return indices of the two numbers such that they add up to target', () => {
     expect(twoSum([2, 7, 11, 15], 9)).toEqual([0, 1])
@@ -6,6 +8,7 @@ describe('twoSum', () => {
   })
 
   it('should return empty array if no solution', () => {
-    expect(twoSum([3, 2, 4], 7)).toEqual([])
+    expect(twoSum([1, 3], 5)).toEqual([])
+  
   })
 })
