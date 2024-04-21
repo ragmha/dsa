@@ -1,4 +1,4 @@
-## Algorithms (15/ 167)
+## Algorithms (16/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
@@ -9,7 +9,7 @@
 | Minimum Swaps 2                                           | `Arrays`                | [TypeScript](./src/algorithms/arrays/minimum-swaps-2)                   |
 | Array Manipulation                                        | `Arrays`                | [TypeScript](./src/algorithms/arrays/array-manipulation)                |
 | Ransom Note                                               | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/ransom-note)                   |
-| Two Strings                                               | `Hash Tables`           |                                                                         |
+| Two Strings                                               | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/two-strings)                   |
 | Sherlock and Anagrams                                     | `Hash Tables`           |                                                                         |
 | Count Triplets                                            | `Hash Tables`           |                                                                         |
 | Frequency Queries                                         | `Hash Tables`           |                                                                         |
