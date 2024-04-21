@@ -1,4 +1,4 @@
-## Algorithms (14/ 167)
+## Algorithms (15/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
@@ -96,7 +96,7 @@
 | Word Search                                               | `Baktracking`           |                                                                         |
 | Palindrome Partitioning                                   | `Baktracking`           |                                                                         |
 | Letter Combinations of a Phone Number                     | `Baktracking`           |                                                                         |
-| N Queens                                                  | `Baktracking`           |                                                                         |
+| N Queens                                                  | `Baktracking`           | [Typescript](./src/algorithms/backtracking/n-queens/)                   |
 | Insert Interval                                           | `Intervals`             |                                                                         |
 | Merge Intervals                                           | `Intervals`             |                                                                         |
 | Non Overlapping Intervals                                 | `Intervals`             |                                                                         |
