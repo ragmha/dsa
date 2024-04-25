@@ -1,4 +1,4 @@
-## Algorithms (16/ 167)
+## Algorithms (17/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 | Array Manipulation                                        | `Arrays`                | [TypeScript](./src/algorithms/arrays/array-manipulation)                |
 | Ransom Note                                               | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/ransom-note)                   |
 | Two Strings                                               | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/two-strings)                   |
-| Sherlock and Anagrams                                     | `Hash Tables`           |                                                                         |
+| Sherlock and Anagrams                                     | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/sherlock-and-anagrams)         |
 | Count Triplets                                            | `Hash Tables`           |                                                                         |
 | Frequency Queries                                         | `Hash Tables`           |                                                                         |
 | Making Anagrams                                           | `Strings`               | [TypeScript](./src/algorithms/strings/make-anagram)                     |
