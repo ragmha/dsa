@@ -1,4 +1,4 @@
-## Algorithms (17/ 167)
+## Algorithms (18/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
@@ -27,7 +27,7 @@
 | Valid Sudoku                                              | `Arrays`, `Hash Tables` |                                                                         |
 | Encode and Decode Strings                                 | `Arrays`, `Hash Tables` |                                                                         |
 | Longest Consecutive Sequence                              | `Arrays`, `Hash Tables` |                                                                         |
-| Valid Palindrome                                          | `Two Pointers`          |                                                                         |
+| Valid Palindrome                                          | `Two Pointers`          | [Typescript]('./src/algorithms/two-pointers/valid-palindrome')          |
 | Two Sum II Input Array Is Sorted                          | `Two Pointers`          |                                                                         |
 | 3Sum                                                      | `Two Pointers`          |                                                                         |
 | Container With Most Water                                 | `Two Pointers`          |                                                                         |
@@ -171,7 +171,8 @@
 | Detect Squares                                            | `Math & Geometry`       |                                                                         |
 | Factorial                                                 | `Math`, `Recursion`     | [TypeScript](./src/algorithms/math/factorial)                           |
 
---
+
+-----
 
 ## Data-Structures (5 / -)
 
