@@ -1,4 +1,4 @@
-## Algorithms (18/ 167)
+## Algorithms (19/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
@@ -32,7 +32,7 @@
 | 3Sum                                                      | `Two Pointers`          |                                                                         |
 | Container With Most Water                                 | `Two Pointers`          |                                                                         |
 | Trapping Rain Water                                       | `Two Pointers`          |                                                                         |
-| Valid Parentheses                                         | `Stack`                 |                                                                         |
+| Valid Parentheses                                         | `Stack`                 | [Typescript]('./src/algorithms/stack/valid-parentheses')                |
 | Min Stack                                                 | `Stack`                 |                                                                         |
 | Evaluate Reverse Polish Notation                          | `Stack`                 |                                                                         |
 | Generate Parentheses                                      | `Stack`                 |                                                                         |
