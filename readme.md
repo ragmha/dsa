@@ -2,7 +2,7 @@
 
 | Name                                                      | Tags                    | Solution                                                                |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
-| Is-Monotonic                                              | `Arrays`                | [TypeScript](./src/algorithms/arrays/is-monotonic)                      |
+| Is-Monotonic                                              | `Arrays`                | [TypeScript](./src/algorithms/arrays/is-monotonic/is-monotonic.ts) ,  [Python](./src/algorithms/arrays/is-montonic/is_monotonic.py)                        |
 | 2D Array - DS                                             | `Arrays`                | [TypeScript](./src/algorithms/arrays/2d-array-ds)                       |
 | Left Rotation                                             | `Arrays`                | [TypeScript](./src/algorithms/arrays/left-rotation)                     |
 | New Year Chaos                                            | `Arrays`                | [TypeScript](./src/algorithms/arrays/new-year-chaos)                    |
