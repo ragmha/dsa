@@ -34,3 +34,25 @@ export function isValid(s: string): boolean {
 
   return stack.length === 0
 }
+
+export function isValid2(s: string): boolean {
+  const brackets: Record<string, string> = {
+    ')': '(',
+    ']': '[',
+    '}': '{',
+  }
+
+  const stack: string[] = []
+
+  for (let i = 0; i < s.length; i++) {
+    const current = s[i]
+
+    if (['(', '[', '{'].includes(current)) {
+      stack.push(current)
+    } else if (stack.pop() !== brackets[current]) {
+      return false
+    }
+  }
+
+  return !stack.length
+}
