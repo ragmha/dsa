@@ -16,11 +16,9 @@ from typing import List
 
 class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
-        if nums[-1] - nums[0] < 0:
-            nums.reverse()
+        return True if (nums == sorted(nums) or nums == sorted(nums, reverse=True)) else False
 
-        for i in range(len(nums) - 1):
-            if not (nums[i] <= nums[i + 1]):
-                return False
 
-        return True
+class AnotherSolution:
+    def isMonotonic(self, nums: List[int]) -> bool:
+        return all(nums[i] <= nums[i+1] for i in range(len(nums)-1)) or all(nums[i] >= nums[i+1] for i in range(len(nums)-1))
