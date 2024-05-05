@@ -6,21 +6,21 @@ class TestIsMonotonic(unittest.TestCase):
 
     def setUp(self):
         self.solution = Solution()
-        self.anotherSolution = AnotherSolution()
+        self.another_solution = AnotherSolution()
 
-    def test_solutionisMonotonic(self):
+    def test_solution_isMonotonic(self):
         self.assertTrue(self.solution.isMonotonic([1, 2, 2, 3]))
 
         self.assertTrue(self.solution.isMonotonic([6, 5, 4, 4]))
 
         self.assertFalse(self.solution.isMonotonic([1, 3, 2]))
 
-    def test_AnothersolutionisMonotonic(self):
-        self.assertTrue(self.anotherSolution.isMonotonic([1, 2, 2, 3]))
+    def test_another_solution_isMonotonic(self):
+        self.assertTrue(self.another_solution.isMonotonic([1, 2, 2, 3]))
 
-        self.assertTrue(self.anotherSolution.isMonotonic([6, 5, 4, 4]))
+        self.assertTrue(self.another_solution.isMonotonic([6, 5, 4, 4]))
 
-        self.assertFalse(self.anotherSolution.isMonotonic([1, 3, 2]))
+        self.assertFalse(self.another_solution.isMonotonic([1, 3, 2]))
 
 
 if __name__ == '__main__':
