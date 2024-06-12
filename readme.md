@@ -174,7 +174,7 @@
 
 -----
 
-## Data-Structures (5 / -)
+## Data-Structures (6 / -)
 
 | Name               | Solution                                               |
 | ------------------ | ------------------------------------------------------ |
@@ -183,6 +183,7 @@
 | Stack              | [TypeScript](./src/data-structures/stack)              |
 | Hash Table         | [TypeScript](./src/data-structures/hash-table)         |
 | Queue              | [TypeScript](./src/data-structures/queue)              |
+| Heap               | [TypeScript](./src/data-structures/heap)              |
 
 ## License
 
