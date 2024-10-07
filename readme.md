@@ -1,4 +1,4 @@
-## Algorithms (19/ 167)
+## Algorithms (20/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,7 @@
 | Ransom Note                                               | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/ransom-note)                                                                               |
 | Two Strings                                               | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/two-strings)                                                                               |
 | Sherlock and Anagrams                                     | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/sherlock-and-anagrams)                                                                     |
-| Count Triplets                                            | `Hash Tables`           |                                                                                                                                     |
+| Count Triplets                                            | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/count-triplets)                                                                            |
 | Frequency Queries                                         | `Hash Tables`           |                                                                                                                                     |
 | Making Anagrams                                           | `Strings`               | [TypeScript](./src/algorithms/strings/make-anagram)                                                                                 |
 | Alternating Characters                                    | `Strings`               |                                                                                                                                     |
