@@ -1,4 +1,4 @@
-## Algorithms (20/ 167)
+## Algorithms (21/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@
 | Two Strings                                               | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/two-strings)                                                                               |
 | Sherlock and Anagrams                                     | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/sherlock-and-anagrams)                                                                     |
 | Count Triplets                                            | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/count-triplets)                                                                            |
-| Frequency Queries                                         | `Hash Tables`           |                                                                                                                                     |
+| Frequency Queries                                         | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/frequency-queries)                                                                         |
 | Making Anagrams                                           | `Strings`               | [TypeScript](./src/algorithms/strings/make-anagram)                                                                                 |
 | Alternating Characters                                    | `Strings`               |                                                                                                                                     |
 | Sherlock and the Valid String                             | `Strings`               |                                                                                                                                     |
