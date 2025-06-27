@@ -1,4 +1,4 @@
-## Algorithms (22/ 167)
+## Algorithms (23/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | Frequency Queries                                         | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/frequency-queries)                                                                         |
 | Making Anagrams                                           | `Strings`               | [TypeScript](./src/algorithms/strings/make-anagram)                                                                                 |
 | Alternating Characters                                    | `Strings`               | [TypeScript](./src/algorithms/strings/alternating-characters)                                                                       |
-| Sherlock and the Valid String                             | `Strings`               |                                                                                                                                     |
+| Sherlock and the Valid String                             | `Strings`               | [TypeScript](./src/algorithms/strings/sherlock-and-the-valid-string)                                                                |
 | Special String Again                                      | `Strings`               |                                                                                                                                     |
 | Common Child                                              | `Strings`               |                                                                                                                                     |
 | Contains-Duplicate                                        | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/arrays_hashtables/contains-duplicate)                                                                 |
