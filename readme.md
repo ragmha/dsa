@@ -1,4 +1,4 @@
-## Algorithms (21/ 167)
+## Algorithms (22/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,7 +14,7 @@
 | Count Triplets                                            | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/count-triplets)                                                                            |
 | Frequency Queries                                         | `Hash Tables`           | [TypeScript](./src/algorithms/hashtables/frequency-queries)                                                                         |
 | Making Anagrams                                           | `Strings`               | [TypeScript](./src/algorithms/strings/make-anagram)                                                                                 |
-| Alternating Characters                                    | `Strings`               |                                                                                                                                     |
+| Alternating Characters                                    | `Strings`               | [TypeScript](./src/algorithms/strings/alternating-characters)                                                                       |
 | Sherlock and the Valid String                             | `Strings`               |                                                                                                                                     |
 | Special String Again                                      | `Strings`               |                                                                                                                                     |
 | Common Child                                              | `Strings`               |                                                                                                                                     |
