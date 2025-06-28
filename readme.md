@@ -1,4 +1,4 @@
-## Algorithms (23/ 167)
+## Algorithms (24/ 167)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@
 | Making Anagrams                                           | `Strings`               | [TypeScript](./src/algorithms/strings/make-anagram)                                                                                 |
 | Alternating Characters                                    | `Strings`               | [TypeScript](./src/algorithms/strings/alternating-characters)                                                                       |
 | Sherlock and the Valid String                             | `Strings`               | [TypeScript](./src/algorithms/strings/sherlock-and-the-valid-string)                                                                |
-| Special String Again                                      | `Strings`               |                                                                                                                                     |
+| Special String Again                                      | `Strings`               | [TypeScript](./src/algorithms/strings/special-string-again)                                                                         |
 | Common Child                                              | `Strings`               |                                                                                                                                     |
 | Contains-Duplicate                                        | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/arrays_hashtables/contains-duplicate)                                                                 |
 | Valid Anagram                                             | `Arrays`, `Hash Tables` | [TypeScript](./src/algorithms/arrays_hashtables/valid-anagram)                                                                      |
