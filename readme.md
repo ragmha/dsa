@@ -1,7 +1,38 @@
-## Algorithms (24/ 167)
+## DSA
+
+## 🛠 Prerequisites
+
+Make sure you have the following installed:
+
+Python 3.8+
+
+Node.js 18+ and npm
+
+(Optional) virtualenv for Python
+
+## Running Python solution
+
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+pytest
+```
+
+## Running Node solutions
+
+```
+npm install
+
+npm test
+```
+
+## Algorithms (25/ 168)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Max value                                                 | `Arrays`                | [Python](./src/algorithms/arrays/max-value/max_value.py)                                                                            |
 | Is-Monotonic                                              | `Arrays`                | [TypeScript](./src/algorithms/arrays/is-monotonic/is-monotonic.ts) , [Python](./src/algorithms/arrays/is-monotonic/is_monotonic.py) |
 | 2D Array - DS                                             | `Arrays`                | [TypeScript](./src/algorithms/arrays/2d-array-ds)                                                                                   |
 | Left Rotation                                             | `Arrays`                | [TypeScript](./src/algorithms/arrays/left-rotation)                                                                                 |
