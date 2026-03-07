@@ -1,0 +1,1361 @@
+{
+  "version": 1,
+  "updatedAt": "2026-03-07T09:16:25.782Z",
+  "tracks": {
+    "algorithms": {
+      "title": "Algorithms",
+      "categories": [
+        {
+          "slug": "arrays",
+          "title": "Arrays",
+          "items": [
+            {
+              "slug": "max-value",
+              "title": "Max value",
+              "tags": [
+                "Arrays"
+              ]
+            },
+            {
+              "slug": "is-monotonic",
+              "title": "Is-Monotonic",
+              "tags": [
+                "Arrays"
+              ]
+            },
+            {
+              "slug": "2d-array-ds",
+              "title": "2D Array - DS",
+              "tags": [
+                "Arrays"
+              ]
+            },
+            {
+              "slug": "left-rotation",
+              "title": "Left Rotation",
+              "tags": [
+                "Arrays"
+              ]
+            },
+            {
+              "slug": "new-year-chaos",
+              "title": "New Year Chaos",
+              "tags": [
+                "Arrays"
+              ]
+            },
+            {
+              "slug": "minimum-swaps-2",
+              "title": "Minimum Swaps 2",
+              "tags": [
+                "Arrays"
+              ]
+            },
+            {
+              "slug": "array-manipulation",
+              "title": "Array Manipulation",
+              "tags": [
+                "Arrays"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "hashtables",
+          "title": "Hash Tables",
+          "items": [
+            {
+              "slug": "ransom-note",
+              "title": "Ransom Note",
+              "tags": [
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "two-strings",
+              "title": "Two Strings",
+              "tags": [
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "sherlock-and-anagrams",
+              "title": "Sherlock and Anagrams",
+              "tags": [
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "count-triplets",
+              "title": "Count Triplets",
+              "tags": [
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "frequency-queries",
+              "title": "Frequency Queries",
+              "tags": [
+                "Hash Tables"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "strings",
+          "title": "Strings",
+          "items": [
+            {
+              "slug": "make-anagram",
+              "title": "Making Anagrams",
+              "tags": [
+                "Strings"
+              ]
+            },
+            {
+              "slug": "alternating-characters",
+              "title": "Alternating Characters",
+              "tags": [
+                "Strings"
+              ]
+            },
+            {
+              "slug": "sherlock-and-the-valid-string",
+              "title": "Sherlock and the Valid String",
+              "tags": [
+                "Strings"
+              ]
+            },
+            {
+              "slug": "special-string-again",
+              "title": "Special String Again",
+              "tags": [
+                "Strings"
+              ]
+            },
+            {
+              "slug": "common-child",
+              "title": "Common Child",
+              "tags": [
+                "Strings"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "arrays_hashtables",
+          "title": "Arrays + Hash Tables",
+          "items": [
+            {
+              "slug": "contains-duplicate",
+              "title": "Contains-Duplicate",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "valid-anagram",
+              "title": "Valid Anagram",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "two-sum",
+              "title": "Two Sum",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "group-anagrams",
+              "title": "Group Anagrams",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "top-k-frequent-elements",
+              "title": "Top K Frequent Elements",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "product-of-array-except-self",
+              "title": "Product of Array Except Self",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "valid-sudoku",
+              "title": "Valid Sudoku",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "encode-and-decode-strings",
+              "title": "Encode and Decode Strings",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            },
+            {
+              "slug": "longest-consecutive-sequence",
+              "title": "Longest Consecutive Sequence",
+              "tags": [
+                "Arrays",
+                "Hash Tables"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "two-pointers",
+          "title": "Two Pointers",
+          "items": [
+            {
+              "slug": "valid-palindrome",
+              "title": "Valid Palindrome",
+              "tags": [
+                "Two Pointers"
+              ]
+            },
+            {
+              "slug": "two-sum-ii-input-array-is-sorted",
+              "title": "Two Sum II Input Array Is Sorted",
+              "tags": [
+                "Two Pointers"
+              ]
+            },
+            {
+              "slug": "3sum",
+              "title": "3Sum",
+              "tags": [
+                "Two Pointers"
+              ]
+            },
+            {
+              "slug": "container-with-most-water",
+              "title": "Container With Most Water",
+              "tags": [
+                "Two Pointers"
+              ]
+            },
+            {
+              "slug": "trapping-rain-water",
+              "title": "Trapping Rain Water",
+              "tags": [
+                "Two Pointers"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "stack",
+          "title": "Stack",
+          "items": [
+            {
+              "slug": "valid-parentheses",
+              "title": "Valid Parentheses",
+              "tags": [
+                "Stack"
+              ]
+            },
+            {
+              "slug": "min-stack",
+              "title": "Min Stack",
+              "tags": [
+                "Stack"
+              ]
+            },
+            {
+              "slug": "evaluate-reverse-polish-notation",
+              "title": "Evaluate Reverse Polish Notation",
+              "tags": [
+                "Stack"
+              ]
+            },
+            {
+              "slug": "generate-parentheses",
+              "title": "Generate Parentheses",
+              "tags": [
+                "Stack"
+              ]
+            },
+            {
+              "slug": "daily-temperatures",
+              "title": "Daily Temperatures",
+              "tags": [
+                "Stack"
+              ]
+            },
+            {
+              "slug": "car-fleet",
+              "title": "Car Fleet",
+              "tags": [
+                "Stack"
+              ]
+            },
+            {
+              "slug": "largest-rectangle-in-histogram",
+              "title": "Largest Rectangle In Histogram",
+              "tags": [
+                "Stack"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "binary-search",
+          "title": "Binary Search",
+          "items": [
+            {
+              "slug": "binary-search",
+              "title": "Binary Search",
+              "tags": [
+                "Binary Search"
+              ]
+            },
+            {
+              "slug": "search-a-2d-matrix",
+              "title": "Search a 2D Matrix",
+              "tags": [
+                "Binary Search"
+              ]
+            },
+            {
+              "slug": "koko-eating-bananas",
+              "title": "Koko Eating Bananas",
+              "tags": [
+                "Binary Search"
+              ]
+            },
+            {
+              "slug": "find-minimum-in-rotated-sorted-array",
+              "title": "Find Minimum In Rotated Sorted Array",
+              "tags": [
+                "Binary Search"
+              ]
+            },
+            {
+              "slug": "search-in-rotated-sorted-array",
+              "title": "Search In Rotated Sorted Array",
+              "tags": [
+                "Binary Search"
+              ]
+            },
+            {
+              "slug": "time-based-key-value-store",
+              "title": "Time Based Key Value Store",
+              "tags": [
+                "Binary Search"
+              ]
+            },
+            {
+              "slug": "median-of-two-sorted-arrays",
+              "title": "Median of Two Sorted Arrays",
+              "tags": [
+                "Binary Search"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "sliding-window",
+          "title": "Sliding Window",
+          "items": [
+            {
+              "slug": "best-time-to-buy-and-sell-stock",
+              "title": "Best Time to Buy And Sell Stock",
+              "tags": [
+                "Sliding Window"
+              ]
+            },
+            {
+              "slug": "longest-substring-without-repeating-characters",
+              "title": "Longest Substring Without Repeating Characters",
+              "tags": [
+                "Sliding Window"
+              ]
+            },
+            {
+              "slug": "longest-repeating-character-replacement",
+              "title": "Longest Repeating Character Replacement",
+              "tags": [
+                "Sliding Window"
+              ]
+            },
+            {
+              "slug": "permutation-in-string",
+              "title": "Permutation In String",
+              "tags": [
+                "Sliding Window"
+              ]
+            },
+            {
+              "slug": "minimum-window-substring",
+              "title": "Minimum Window Substring",
+              "tags": [
+                "Sliding Window"
+              ]
+            },
+            {
+              "slug": "sliding-window-maximum",
+              "title": "Sliding Window Maximum",
+              "tags": [
+                "Sliding Window"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "linked-list",
+          "title": "Linked List",
+          "items": [
+            {
+              "slug": "reverse-linked-list",
+              "title": "Reverse Linked List",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "merge-two-sorted-lists",
+              "title": "Merge Two Sorted Lists",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "reorder-list",
+              "title": "Reorder List",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "remove-nth-node-from-end-of-list",
+              "title": "Remove Nth Node From End of List",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "copy-list-with-random-pointer",
+              "title": "Copy List With Random Pointer",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "add-two-numbers",
+              "title": "Add Two Numbers",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "linked-list-cycle",
+              "title": "Linked List Cycle",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "find-the-duplicate-number",
+              "title": "Find The Duplicate Number",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "lru-cache",
+              "title": "LRU Cache",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "merge-k-sorted-lists",
+              "title": "Merge K Sorted Lists",
+              "tags": [
+                "Linked List"
+              ]
+            },
+            {
+              "slug": "reverse-nodes-in-k-group",
+              "title": "Reverse Nodes In K Group",
+              "tags": [
+                "Linked List"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "trees",
+          "title": "Trees",
+          "items": [
+            {
+              "slug": "invert-binary-tree",
+              "title": "Invert Binary Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "maximum-depth-of-binary-tree",
+              "title": "Maximum Depth of Binary Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "diameter-of-binary-tree",
+              "title": "Diameter of Binary Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "balanced-binary-tree",
+              "title": "Balanced Binary Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "same-tree",
+              "title": "Same Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "subtree-of-another-tree",
+              "title": "Subtree of Another Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+              "title": "Lowest Common Ancestor of a Binary Search Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "binary-tree-level-order-traversal",
+              "title": "Binary Tree Level Order Traversal",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "binary-tree-right-side-view",
+              "title": "Binary Tree Right Side View",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "count-good-nodes-in-binary-tree",
+              "title": "Count Good Nodes In Binary Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "validate-binary-search-tree",
+              "title": "Validate Binary Search Tree",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "kth-smallest-element-in-a-bst",
+              "title": "Kth Smallest Element In a Bst",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+              "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "binary-tree-maximum-path-sum",
+              "title": "Binary Tree Maximum Path Sum",
+              "tags": [
+                "Trees"
+              ]
+            },
+            {
+              "slug": "serialize-and-deserialize-binary-tree",
+              "title": "Serialize And Deserialize Binary Tree",
+              "tags": [
+                "Trees"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tries",
+          "title": "Tries",
+          "items": [
+            {
+              "slug": "implement-trie-prefix-tree",
+              "title": "Implement Trie Prefix Tree",
+              "tags": [
+                "Tries"
+              ]
+            },
+            {
+              "slug": "design-add-and-search-words-data-structure",
+              "title": "Design Add And Search Words Data Structure",
+              "tags": [
+                "Tries"
+              ]
+            },
+            {
+              "slug": "word-search-ii",
+              "title": "Word Search II",
+              "tags": [
+                "Tries"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "heap-priority-queue",
+          "title": "Heap / Priority Queue",
+          "items": [
+            {
+              "slug": "kth-largest-element-in-a-stream",
+              "title": "Kth Largest Element In a Stream",
+              "tags": [
+                "Heap / Priority Queue"
+              ]
+            },
+            {
+              "slug": "last-stone-weight",
+              "title": "Last Stone Weight",
+              "tags": [
+                "Heap / Priority Queue"
+              ]
+            },
+            {
+              "slug": "k-closest-points-to-origin",
+              "title": "K Closest Points to Origin",
+              "tags": [
+                "Heap / Priority Queue"
+              ]
+            },
+            {
+              "slug": "kth-largest-element-in-an-array",
+              "title": "Kth Largest Element In An Array",
+              "tags": [
+                "Heap / Priority Queue"
+              ]
+            },
+            {
+              "slug": "task-scheduler",
+              "title": "Task Scheduler",
+              "tags": [
+                "Heap / Priority Queue"
+              ]
+            },
+            {
+              "slug": "design-twitter",
+              "title": "Design Twitter",
+              "tags": [
+                "Heap / Priority Queue"
+              ]
+            },
+            {
+              "slug": "find-median-from-data-stream",
+              "title": "Find Median From Data Stream",
+              "tags": [
+                "Heap / Priority Queue"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "backtracking",
+          "title": "Backtracking",
+          "items": [
+            {
+              "slug": "subsets",
+              "title": "Subsets",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "combination-sum",
+              "title": "Combination Sum",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "permutations",
+              "title": "Permutations",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "subsets-ii",
+              "title": "Subsets II",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "combination-sum-ii",
+              "title": "Combination Sum II",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "word-search",
+              "title": "Word Search",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "palindrome-partitioning",
+              "title": "Palindrome Partitioning",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "letter-combinations-of-a-phone-number",
+              "title": "Letter Combinations of a Phone Number",
+              "tags": [
+                "Baktracking"
+              ]
+            },
+            {
+              "slug": "n-queens",
+              "title": "N Queens",
+              "tags": [
+                "Baktracking"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "intervals",
+          "title": "Intervals",
+          "items": [
+            {
+              "slug": "insert-interval",
+              "title": "Insert Interval",
+              "tags": [
+                "Intervals"
+              ]
+            },
+            {
+              "slug": "merge-intervals",
+              "title": "Merge Intervals",
+              "tags": [
+                "Intervals"
+              ]
+            },
+            {
+              "slug": "non-overlapping-intervals",
+              "title": "Non Overlapping Intervals",
+              "tags": [
+                "Intervals"
+              ]
+            },
+            {
+              "slug": "meeting-rooms",
+              "title": "Meeting Rooms",
+              "tags": [
+                "Intervals"
+              ]
+            },
+            {
+              "slug": "meeting-rooms-ii",
+              "title": "Meeting Rooms II",
+              "tags": [
+                "Intervals"
+              ]
+            },
+            {
+              "slug": "minimum-interval-to-include-each-query",
+              "title": "Minimum Interval to Include Each Query",
+              "tags": [
+                "Intervals"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "greedy",
+          "title": "Greedy",
+          "items": [
+            {
+              "slug": "maximum-subarray",
+              "title": "Maximum Subarray",
+              "tags": [
+                "Greedy"
+              ]
+            },
+            {
+              "slug": "jump-game",
+              "title": "Jump Game",
+              "tags": [
+                "Greedy"
+              ]
+            },
+            {
+              "slug": "jump-game-ii",
+              "title": "Jump Game II",
+              "tags": [
+                "Greedy"
+              ]
+            },
+            {
+              "slug": "gas-station",
+              "title": "Gas Station",
+              "tags": [
+                "Greedy"
+              ]
+            },
+            {
+              "slug": "hand-of-straights",
+              "title": "Hand of Straights",
+              "tags": [
+                "Greedy"
+              ]
+            },
+            {
+              "slug": "merge-triplets-to-form-target-triplet",
+              "title": "Merge Triplets to Form Target Triplet",
+              "tags": [
+                "Greedy"
+              ]
+            },
+            {
+              "slug": "partition-labels",
+              "title": "Partition Labels",
+              "tags": [
+                "Greedy"
+              ]
+            },
+            {
+              "slug": "valid-parenthesis-string",
+              "title": "Valid Parenthesis String",
+              "tags": [
+                "Greedy"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "graphs",
+          "title": "Graphs",
+          "items": [
+            {
+              "slug": "number-of-islands",
+              "title": "Number of Islands",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "clone-graph",
+              "title": "Clone Graph",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "max-area-of-island",
+              "title": "Max Area of Island",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "pacific-atlantic-water-flow",
+              "title": "Pacific Atlantic Water Flow",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "surrounded-regions",
+              "title": "Surrounded Regions",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "rotting-oranges",
+              "title": "Rotting Oranges",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "walls-and-gates",
+              "title": "Walls And Gates",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "course-schedule",
+              "title": "Course Schedule",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "course-schedule-ii",
+              "title": "Course Schedule II",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "redundant-connection",
+              "title": "Redundant Connection",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "number-of-connected-components-in-an-undirected-graph",
+              "title": "Number of Connected Components In An Undirected Graph",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "graph-valid-tree",
+              "title": "Graph Valid Tree",
+              "tags": [
+                "Graphs"
+              ]
+            },
+            {
+              "slug": "word-ladder",
+              "title": "Word Ladder",
+              "tags": [
+                "Graphs"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "advanced-graphs",
+          "title": "Advanced Graphs",
+          "items": [
+            {
+              "slug": "reconstruct-itinerary",
+              "title": "Reconstruct Itinerary",
+              "tags": [
+                "Advanced Graphs"
+              ]
+            },
+            {
+              "slug": "min-cost-to-connect-all-points",
+              "title": "Min Cost to Connect All Points",
+              "tags": [
+                "Advanced Graphs"
+              ]
+            },
+            {
+              "slug": "network-delay-time",
+              "title": "Network Delay Time",
+              "tags": [
+                "Advanced Graphs"
+              ]
+            },
+            {
+              "slug": "swim-in-rising-water",
+              "title": "Swim In Rising Water",
+              "tags": [
+                "Advanced Graphs"
+              ]
+            },
+            {
+              "slug": "alien-dictionary",
+              "title": "Alien Dictionary",
+              "tags": [
+                "Advanced Graphs"
+              ]
+            },
+            {
+              "slug": "cheapest-flights-within-k-stops",
+              "title": "Cheapest Flights Within K Stops",
+              "tags": [
+                "Advanced Graphs"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "1-d-dp",
+          "title": "1-D DP",
+          "items": [
+            {
+              "slug": "climbing-stairs",
+              "title": "Climbing Stairs",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "min-cost-climbing-stairs",
+              "title": "Min Cost Climbing Stairs",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "house-robber",
+              "title": "House Robber",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "house-robber-ii",
+              "title": "House Robber II",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "longest-palindromic-substring",
+              "title": "Longest Palindromic Substring",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "palindromic-substrings",
+              "title": "Palindromic Substrings",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "decode-ways",
+              "title": "Decode Ways",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "coin-change",
+              "title": "Coin Change",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "maximum-product-subarray",
+              "title": "Maximum Product Subarray",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "word-break",
+              "title": "Word Break",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "longest-increasing-subsequence",
+              "title": "Longest Increasing Subsequence",
+              "tags": [
+                "1-D DP"
+              ]
+            },
+            {
+              "slug": "partition-equal-subset-sum",
+              "title": "Partition Equal Subset Sum",
+              "tags": [
+                "1-D DP"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "2-d-dp",
+          "title": "2-D DP",
+          "items": [
+            {
+              "slug": "unique-paths",
+              "title": "Unique Paths",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "longest-common-subsequence",
+              "title": "Longest Common Subsequence",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+              "title": "Best Time to Buy And Sell Stock With Cooldown",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "coin-change-ii",
+              "title": "Coin Change II",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "target-sum",
+              "title": "Target Sum",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "interleaving-string",
+              "title": "Interleaving String",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "longest-increasing-path-in-a-matrix",
+              "title": "Longest Increasing Path In a Matrix",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "distinct-subsequences",
+              "title": "Distinct Subsequences",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "edit-distance",
+              "title": "Edit Distance",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "burst-balloons",
+              "title": "Burst Balloons",
+              "tags": [
+                "2-D DP"
+              ]
+            },
+            {
+              "slug": "regular-expression-matching",
+              "title": "Regular Expression Matching",
+              "tags": [
+                "2-D DP"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "bit-manipulation",
+          "title": "Bit Manipulation",
+          "items": [
+            {
+              "slug": "single-number",
+              "title": "Single Number",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            },
+            {
+              "slug": "number-of-1-bits",
+              "title": "Number of 1 Bits",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            },
+            {
+              "slug": "counting-bits",
+              "title": "Counting Bits",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            },
+            {
+              "slug": "reverse-bits",
+              "title": "Reverse Bits",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            },
+            {
+              "slug": "missing-number",
+              "title": "Missing Number",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            },
+            {
+              "slug": "sum-of-two-integers",
+              "title": "Sum of Two Integers",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            },
+            {
+              "slug": "reverse-integer",
+              "title": "Reverse Integer",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            },
+            {
+              "slug": "hamming-distance",
+              "title": "Hamming-distance",
+              "tags": [
+                "Bit Manipulation"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "math-geometry",
+          "title": "Math & Geometry",
+          "items": [
+            {
+              "slug": "rotate-image",
+              "title": "Rotate Image",
+              "tags": [
+                "Math & Geometry"
+              ]
+            },
+            {
+              "slug": "spiral-matrix",
+              "title": "Spiral Matrix",
+              "tags": [
+                "Math & Geometry"
+              ]
+            },
+            {
+              "slug": "set-matrix-zeroes",
+              "title": "Set Matrix Zeroes",
+              "tags": [
+                "Math & Geometry"
+              ]
+            },
+            {
+              "slug": "happy-number",
+              "title": "Happy Number",
+              "tags": [
+                "Math & Geometry"
+              ]
+            },
+            {
+              "slug": "plus-one",
+              "title": "Plus One",
+              "tags": [
+                "Math & Geometry"
+              ]
+            },
+            {
+              "slug": "pow-x-n",
+              "title": "Pow(x, n)",
+              "tags": [
+                "Math & Geometry"
+              ]
+            },
+            {
+              "slug": "multiply-strings",
+              "title": "Multiply Strings",
+              "tags": [
+                "Math & Geometry"
+              ]
+            },
+            {
+              "slug": "detect-squares",
+              "title": "Detect Squares",
+              "tags": [
+                "Math & Geometry"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "math",
+          "title": "Math",
+          "items": [
+            {
+              "slug": "factorial",
+              "title": "Factorial",
+              "tags": [
+                "Math",
+                "Recursion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "data-structures": {
+      "title": "Data Structures",
+      "items": [
+        {
+          "slug": "linked-list",
+          "title": "Linked-list"
+        },
+        {
+          "slug": "doubly-linked-list",
+          "title": "Doubly-Linked-list"
+        },
+        {
+          "slug": "stack",
+          "title": "Stack"
+        },
+        {
+          "slug": "hash-table",
+          "title": "Hash Table"
+        },
+        {
+          "slug": "queue",
+          "title": "Queue"
+        }
+      ]
+    }
+  }
+}

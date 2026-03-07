@@ -28,6 +28,25 @@ npm install
 npm test
 ```
 
+## CLI dashboard and scaffolding
+
+Run the repository CLI through npm:
+
+```
+npm run cli -- dashboard
+```
+
+Generate starter files for a new problem or data structure:
+
+```
+npm run cli -- generate --track algorithms --category arrays --problem "Common Child" --language typescript
+npm run cli -- generate --track data-structures --problem "Binary Tree" --language python
+```
+
+You can also expose the `dsa` command locally with `npm link`, then use `dsa dashboard` or `dsa generate ...`.
+
+Generated scaffolds include an `@dsa-cli-status scaffold` marker. Remove that marker once the implementation is complete so the dashboard counts the work as solved.
+
 ## Algorithms (25/ 168)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |

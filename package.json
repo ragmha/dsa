@@ -4,10 +4,14 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "dsa": "./cli.js"
+  },
   "scripts": {
     "pretest:type-check": "tsc -p . --noEmit",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "cli": "node cli.js"
   },
   "repository": {
     "type": "git",
