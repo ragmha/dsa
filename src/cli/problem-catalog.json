@@ -703,63 +703,63 @@
               "slug": "subsets",
               "title": "Subsets",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "combination-sum",
               "title": "Combination Sum",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "permutations",
               "title": "Permutations",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "subsets-ii",
               "title": "Subsets II",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "combination-sum-ii",
               "title": "Combination Sum II",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "word-search",
               "title": "Word Search",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "palindrome-partitioning",
               "title": "Palindrome Partitioning",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "letter-combinations-of-a-phone-number",
               "title": "Letter Combinations of a Phone Number",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             },
             {
               "slug": "n-queens",
               "title": "N Queens",
               "tags": [
-                "Baktracking"
+                "Backtracking"
               ]
             }
           ]

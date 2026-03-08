@@ -167,6 +167,10 @@ export function ensureDataStructureItem(catalog, { title }) {
 export function countCatalogItems(catalog, track) {
   const normalizedTrack = normalizeTrackInput(track)
 
+  if (!normalizedTrack) {
+    throw new Error(`Unknown or missing track: "${track}". Supported tracks are: algorithms, data-structures.`)
+  }
+
   if (normalizedTrack === 'algorithms') {
     return getAlgorithmCategories(catalog).reduce(
       (total, category) => total + category.items.length,
