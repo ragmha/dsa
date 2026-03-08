@@ -22,9 +22,16 @@ export function createPrompter({ input, output }) {
 
       while (true) {
         const answer = await rl.question(`Choose [1-${options.length}]: `)
-        const selectedIndex = Number.parseInt(answer, 10)
+        const trimmedAnswer = answer.trim()
 
-        if (Number.isInteger(selectedIndex) && selectedIndex >= 1 && selectedIndex <= options.length) {
+        if (!/^\d+$/.test(trimmedAnswer)) {
+          output.write('Please enter one of the listed numbers.\n')
+          continue
+        }
+
+        const selectedIndex = Number.parseInt(trimmedAnswer, 10)
+
+        if (selectedIndex >= 1 && selectedIndex <= options.length) {
           return options[selectedIndex - 1].value
         }
 

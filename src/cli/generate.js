@@ -279,7 +279,7 @@ export async function runGenerateCommand({ parsed, io, snapshot, prompter }) {
   if (!activePrompter && needsPrompting) {
     if (!io.input.isTTY && needsPrompting) {
       throw new Error(
-        'Missing required generation flags. Provide --track, --language, and --problem (plus --category for algorithms), or run the CLI interactively.'
+        'Missing required generation flags. Provide --track, --language, and --problem (or --name) (plus --category for algorithms), or run the CLI interactively.'
       )
     }
 
