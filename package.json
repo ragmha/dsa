@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "generate:diagram-data": "node scripts/generate-dsa-catalog.mjs",
     "pretest:type-check": "tsc -p . --noEmit",
     "test": "jest",
     "test:watch": "jest --watch"
