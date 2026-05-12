@@ -1,5 +1,44 @@
 ## DSA
 
+## Visual Diagram
+
+Explore the algorithms and data structures as an interactive visual map in [`docs/index.html`](./docs/index.html).
+
+The diagram follows this structure:
+
+```text
+DSA
+|-- Algorithms (169 total, 25 implemented, 144 pending)
+|   |-- Category / Tag
+|   |   |-- Problem [implemented] -> solution link
+|   |   `-- Problem [pending]     -> roadmap item
+|   `-- Examples: Arrays, Graphs, Dynamic Programming, Trees
+`-- Data Structures (5 total, 5 implemented)
+    |-- Structure [implemented] -> solution link
+    `-- Examples: Linked List, Stack, Queue, Hash Table
+```
+
+Legend:
+
+```text
+[implemented] = solution exists in src/
+[pending]     = listed in README but not implemented yet
+```
+
+The diagram data is generated from this README:
+
+```bash
+npm run generate:diagram-data
+```
+
+To preview it locally, serve the `docs` directory:
+
+```bash
+python3 -m http.server 8000 -d docs
+```
+
+The `docs/` directory is ready to publish with GitHub Pages.
+
 ## 🛠 Prerequisites
 
 Make sure you have the following installed:
@@ -28,7 +67,7 @@ npm install
 npm test
 ```
 
-## Algorithms (25/ 168)
+## Algorithms (25 / 169)
 
 | Name                                                      | Tags                    | Solution                                                                                                                            |
 | --------------------------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,12 +97,12 @@ npm test
 | Valid Sudoku                                              | `Arrays`, `Hash Tables` |                                                                                                                                     |
 | Encode and Decode Strings                                 | `Arrays`, `Hash Tables` |                                                                                                                                     |
 | Longest Consecutive Sequence                              | `Arrays`, `Hash Tables` |                                                                                                                                     |
-| Valid Palindrome                                          | `Two Pointers`          | [Typescript]('./src/algorithms/two-pointers/valid-palindrome')                                                                      |
+| Valid Palindrome                                          | `Two Pointers`          | [TypeScript](./src/algorithms/two-pointers/valid-palindrome)                                                                        |
 | Two Sum II Input Array Is Sorted                          | `Two Pointers`          |                                                                                                                                     |
 | 3Sum                                                      | `Two Pointers`          |                                                                                                                                     |
 | Container With Most Water                                 | `Two Pointers`          |                                                                                                                                     |
 | Trapping Rain Water                                       | `Two Pointers`          |                                                                                                                                     |
-| Valid Parentheses                                         | `Stack`                 | [Typescript]('./src/algorithms/stack/valid-parentheses')                                                                            |
+| Valid Parentheses                                         | `Stack`                 | [TypeScript](./src/algorithms/stack/valid-parentheses)                                                                              |
 | Min Stack                                                 | `Stack`                 |                                                                                                                                     |
 | Evaluate Reverse Polish Notation                          | `Stack`                 |                                                                                                                                     |
 | Generate Parentheses                                      | `Stack`                 |                                                                                                                                     |
@@ -119,15 +158,15 @@ npm test
 | Task Scheduler                                            | `Heap / Priority Queue` |                                                                                                                                     |
 | Design Twitter                                            | `Heap / Priority Queue` |                                                                                                                                     |
 | Find Median From Data Stream                              | `Heap / Priority Queue` |                                                                                                                                     |
-| Subsets                                                   | `Baktracking`           |                                                                                                                                     |
-| Combination Sum                                           | `Baktracking`           |                                                                                                                                     |
-| Permutations                                              | `Baktracking`           |                                                                                                                                     |
-| Subsets II                                                | `Baktracking`           |                                                                                                                                     |
-| Combination Sum II                                        | `Baktracking`           |                                                                                                                                     |
-| Word Search                                               | `Baktracking`           |                                                                                                                                     |
-| Palindrome Partitioning                                   | `Baktracking`           |                                                                                                                                     |
-| Letter Combinations of a Phone Number                     | `Baktracking`           |                                                                                                                                     |
-| N Queens                                                  | `Baktracking`           | [Typescript](./src/algorithms/backtracking/n-queens/)                                                                               |
+| Subsets                                                   | `Backtracking`          |                                                                                                                                     |
+| Combination Sum                                           | `Backtracking`          |                                                                                                                                     |
+| Permutations                                              | `Backtracking`          |                                                                                                                                     |
+| Subsets II                                                | `Backtracking`          |                                                                                                                                     |
+| Combination Sum II                                        | `Backtracking`          |                                                                                                                                     |
+| Word Search                                               | `Backtracking`          |                                                                                                                                     |
+| Palindrome Partitioning                                   | `Backtracking`          |                                                                                                                                     |
+| Letter Combinations of a Phone Number                     | `Backtracking`          |                                                                                                                                     |
+| N Queens                                                  | `Backtracking`          | [TypeScript](./src/algorithms/backtracking/n-queens/)                                                                               |
 | Insert Interval                                           | `Intervals`             |                                                                                                                                     |
 | Merge Intervals                                           | `Intervals`             |                                                                                                                                     |
 | Non Overlapping Intervals                                 | `Intervals`             |                                                                                                                                     |
