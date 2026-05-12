@@ -4,6 +4,27 @@
 
 Explore the algorithms and data structures as an interactive visual map in [`docs/index.html`](./docs/index.html).
 
+The diagram follows this structure:
+
+```text
+DSA
+|-- Algorithms (169 total, 25 implemented, 144 pending)
+|   |-- Category / Tag
+|   |   |-- Problem [implemented] -> solution link
+|   |   `-- Problem [pending]     -> roadmap item
+|   `-- Examples: Arrays, Graphs, Dynamic Programming, Trees
+`-- Data Structures (5 total, 5 implemented)
+    |-- Structure [implemented] -> solution link
+    `-- Examples: Linked List, Stack, Queue, Hash Table
+```
+
+Legend:
+
+```text
+[implemented] = solution exists in src/
+[pending]     = listed in README but not implemented yet
+```
+
 The diagram data is generated from this README:
 
 ```bash
